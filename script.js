@@ -1,3 +1,4 @@
+
 time = 10;
 
 window.onload =function(){
